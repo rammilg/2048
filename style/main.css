@@ -3,7 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
   background: #f8a5c2;
-  color: #776e65;
+  color: #776e64;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -101,7 +101,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #776e65;
+  color: #776e64;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
